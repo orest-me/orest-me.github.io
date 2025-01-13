@@ -1,0 +1,25 @@
+@font-face {
+	font-family: 'GolosTextWebVF';
+	src: 
+		url('/static/fonts/golos-text_vf.woff2') format('woff2'),
+		url('/static/fonts/golos-text_vf.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+* {
+    font-family: 'GolosTextWebVF';
+}
+
+table {
+    max-width: 100%;
+    width: auto !important;
+    overflow-x: auto;
+    display: inline-block;
+    border-radius: .5rem;
+    border: 1px solid var(--bs-table-border-color);
+}
+
+a {
+    text-decoration: none !important;
+}
