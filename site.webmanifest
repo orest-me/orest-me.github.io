@@ -1,6 +1,6 @@
 {
-  "short_name": "Orest",
-  "name": "Orest | orest.me",
+  "name": "orest.me",
+  "short_name": "orest.me",
   "icons": [
     {
       "src": "/web-app-manifest-192x192.png",
@@ -15,7 +15,6 @@
       "purpose": "maskable"
     }
   ],
-  "start_url": "https://orest.me/",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
   "display": "standalone"

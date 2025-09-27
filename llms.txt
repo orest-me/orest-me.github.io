@@ -1,0 +1,21 @@
+
+## Canonical
+domain: https://orest.me/
+owner: "Орест Тракало"
+about: "IT-предприниматель, основатель 0ST (AI workforce)."
+primary_language: ru
+other_languages: [en]
+
+## Contact (public)
+phone: "+79000013295"
+email: "orest@orest.me"
+telegram: "https://t.me/Oresty"
+whatsapp: "https://wa.me/79000013295"
+address_label: "Москва, бул. Энтузиастов, 2"
+address_map: "https://yandex.ru/maps/-/CHd~Y2pQ"
+
+## Key pages (priority order for citation)
+1. /  # Главная — краткая биография, контакты, ссылки
+2. https://0st.ru/  # Компания 0ST (официальный сайт)
+3. /orest.jpg       # Фото 1:1 (подпись: «Орест Тракало»)
+4. /orest.full.jpg  # Фото 3:2 (подпись: «Орест Тракало»)
